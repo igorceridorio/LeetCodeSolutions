@@ -7,3 +7,4 @@ Set of solutions for problems available on [LeetCode](https://leetcode.com).
 * [Palidrome Number](https://leetcode.com/problems/palindrome-number)
 * [Two Sum](https://leetcode.com/problems/two-sum)
 * [Roman to Integer](https://leetcode.com/problems/roman-to-integer)
+* [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
