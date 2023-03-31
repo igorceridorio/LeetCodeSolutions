@@ -8,3 +8,4 @@ Set of solutions for problems available on [LeetCode](https://leetcode.com).
 * [Two Sum](https://leetcode.com/problems/two-sum)
 * [Roman to Integer](https://leetcode.com/problems/roman-to-integer)
 * [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+* [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
