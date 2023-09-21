@@ -1,3 +1,5 @@
+package removeduplicatesfromsortedarray
+
 func removeDuplicates(nums []int) int {
 	array := make([]int, 0)
 	array = append(array, nums[0])

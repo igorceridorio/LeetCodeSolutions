@@ -1,3 +1,21 @@
+package mergetwosortedlists
+
+import "fmt"
+
+type ListNode struct {
+	Val  int
+	Next *ListNode
+}
+
+func printList(head *ListNode) {
+	current := head
+	for current != nil {
+		fmt.Printf("%d -> ", current.Val)
+		current = current.Next
+	}
+	fmt.Println("nil")
+}
+
 func mergeTwoLists(list1 *ListNode, list2 *ListNode) *ListNode {
 	mergedList := &ListNode{}
 	tail := mergedList

@@ -1,3 +1,5 @@
+package romantointeger
+
 func romanToInt(s string) int {
 	romanToIntMap := map[string]int{
 		"I": 1,
