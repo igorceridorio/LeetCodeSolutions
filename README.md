@@ -1,10 +1,12 @@
 # LeetCodeSolutions
+
 Set of solutions for problems available on [LeetCode](https://leetcode.com).
 
-# Summary of solved problems
+## Summary of solved problems
 
 * [1.Two Sum](https://leetcode.com/problems/two-sum)
 * [2.Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+* [6.Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 * [9.Palindrome Number](https://leetcode.com/problems/palindrome-number)
 * [12.Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 * [13.Roman to Integer](https://leetcode.com/problems/roman-to-integer)
