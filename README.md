@@ -14,3 +14,4 @@ Set of solutions for problems available on [LeetCode](https://leetcode.com).
 * [21.Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 * [26.Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 * [217.Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+* [242.Valid Anagram](https://leetcode.com/problems/valid-anagram/)
