@@ -15,4 +15,4 @@ Set of solutions for problems available on [LeetCode](https://leetcode.com).
 * [26.Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 * [217.Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 * [242.Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-* [347.Top K Frequent Elements]([text](https://leetcode.com/problems/top-k-frequent-elements/))
+* [347.Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
