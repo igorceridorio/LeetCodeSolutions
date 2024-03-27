@@ -1,8 +1,7 @@
 package topkfrequentelements
 
 import (
-	"fmt"
-    "sort"
+	"sort"
 )
 
 type KeyValue struct {
