@@ -13,6 +13,7 @@ Set of solutions for problems available on [LeetCode](https://leetcode.com).
 * [20.Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
 * [21.Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 * [26.Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+* [36.Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 * [49.Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 * [128.Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 * [217.Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
