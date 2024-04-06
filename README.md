@@ -15,6 +15,7 @@ Set of solutions for problems available on [LeetCode](https://leetcode.com).
 * [26.Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 * [36.Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 * [49.Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+* [125.Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 * [128.Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 * [217.Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 * [238.Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
