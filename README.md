@@ -20,6 +20,7 @@ Set of solutions for problems available on [LeetCode](https://leetcode.com).
 * [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 * [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+* [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 * [155. Min Stack](https://leetcode.com/problems/min-stack/)
 * [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
