@@ -14,6 +14,7 @@ Set of solutions for problems available on [LeetCode](https://leetcode.com).
 * [15. 3Sum](https://leetcode.com/problems/3sum/)
 * [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
 * [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+* [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 * [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 * [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 * [42. Trapping raing Water](https://leetcode.com/problems/trapping-rain-water/)
